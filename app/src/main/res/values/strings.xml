@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokeIRC Beta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Refresh</string>
+    <string name="home">Home</string>
+    <string name="back">Zurück</string>
+    <string name="next">Vor</string>
+    <string name="menu">Menü</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="low">Ein Lächeln</string>
+    <string name="med">Dankeschön</string>
+    <string name="high">Bonze</string>
+    <string name="weloveyou">Bankräuber</string>
+    <string name="donation">Spenden</string>
+
+
+
+    <string name="title_activity_some">SomeActivity</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center|end|start|top"
+    android:layoutMode="opticalBounds"
+    android:orientation="vertical" >
+
+    <WebView
+        android:id="@+id/web_engine"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7" />
+
+<LinearLayout
+    
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="end"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:layout_weight="0.55"
+        android:onClick="homepage"
+        android:orientation="horizontal"
+        android:text="@string/home" />
+
+   		<Button
+        android:id="@+id/button2"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:onClick="backsite"
+        android:layout_height="48dp"
+        android:layout_weight="0.55"
+        android:text="@string/back" />
+        <Button
+        android:id="@+id/button3"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:onClick="vor"
+        android:layout_height="48dp"
+        android:layout_weight="0.55"
+        android:text="@string/next" />
+        <Button
+        android:id="@+id/button4"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:onClick="refresh"
+        android:layout_height="48dp"
+        android:layout_weight="0.55"
+        android:text="@string/action_settings" />
+</LinearLayout>
+</LinearLayout>

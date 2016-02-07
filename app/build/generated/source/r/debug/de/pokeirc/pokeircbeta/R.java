@@ -41,17 +41,11 @@ public final class R {
         public static final int action_settings=0x7f060000;
         public static final int app_name=0x7f060001;
         public static final int back=0x7f060002;
-        public static final int donation=0x7f060003;
-        public static final int hello_world=0x7f060004;
-        public static final int high=0x7f060005;
-        public static final int home=0x7f060006;
-        public static final int low=0x7f060007;
-        public static final int med=0x7f060008;
-        public static final int menu=0x7f060009;
-        public static final int next=0x7f06000a;
-        public static final int title_activity_some=0x7f06000b;
-        public static final int title_activity_splash_screen=0x7f06000c;
-        public static final int weloveyou=0x7f06000d;
+        public static final int hello_world=0x7f060003;
+        public static final int home=0x7f060004;
+        public static final int menu=0x7f060005;
+        public static final int next=0x7f060006;
+        public static final int title_activity_splash_screen=0x7f060007;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
@@ -66,5 +60,6 @@ public final class R {
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f040001;
+        public static final int Theme_Shelves=0x7f040002;
     }
 }

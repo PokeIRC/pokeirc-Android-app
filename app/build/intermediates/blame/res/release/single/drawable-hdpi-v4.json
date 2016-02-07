@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Pat\\APP\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Pat\\APP\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]

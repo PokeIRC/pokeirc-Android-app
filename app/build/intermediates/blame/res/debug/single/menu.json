@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash_screen.xml",
+        "source": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\menu\\splash_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\Pat\\APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
         "source": "C:\\Users\\Pat\\APP\\app\\src\\main\\res\\menu\\menu.xml"
     },
@@ -8,11 +16,19 @@
         "source": "C:\\Users\\Pat\\APP\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
+        "merged": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
         "merged": "C:\\Users\\Pat\\APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash_screen.xml",
         "source": "C:\\Users\\Pat\\APP\\app\\src\\main\\res\\menu\\splash_screen.xml"
     },
     {
         "merged": "C:\\Users\\Pat\\APP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
         "source": "C:\\Users\\Pat\\APP\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

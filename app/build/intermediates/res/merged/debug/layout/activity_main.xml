@@ -21,7 +21,6 @@
 
     <Button
         android:id="@+id/button1"
-        style="?android:attr/buttonBarButtonStyle"
         android:layout_width="fill_parent"
         android:layout_height="48dp"
         android:layout_weight="0.55"
@@ -31,27 +30,22 @@
 
    		<Button
         android:id="@+id/button2"
-        style="?android:attr/buttonBarButtonStyle"
         android:orientation="horizontal"
         android:layout_width="fill_parent"
         android:onClick="backsite"
         android:layout_height="48dp"
         android:layout_weight="0.55"
         android:text="@string/back" />
-
         <Button
         android:id="@+id/button3"
-        style="?android:attr/buttonBarButtonStyle"
         android:orientation="horizontal"
         android:layout_width="fill_parent"
         android:onClick="vor"
         android:layout_height="48dp"
         android:layout_weight="0.55"
         android:text="@string/next" />
-
         <Button
         android:id="@+id/button4"
-        style="?android:attr/buttonBarButtonStyle"
         android:orientation="horizontal"
         android:layout_width="fill_parent"
         android:onClick="refresh"

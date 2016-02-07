@@ -8,14 +8,11 @@
     <string name="back">Zurück</string>
     <string name="next">Vor</string>
     <string name="menu">Menü</string>
-    <string name="title_activity_splash_screen">SplashScreen</string>
-    <string name="low">Ein Lächeln</string>
-    <string name="med">Dankeschön</string>
-    <string name="high">Bonze</string>
-    <string name="weloveyou">Bankräuber</string>
-    <string name="donation">Spenden</string>
+    <string name="info">Info</string>
 
 
-
-    <string name="title_activity_some">SomeActivity</string>
+    <style name="Theme.Shelves" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/ic_launcher</item>
+    <item name="android:windowNoTitle">true</item>
+    </style>
 </resources>

@@ -1,5 +1,263 @@
 [
     {
+        "outputFile": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 51,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 51,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 49,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 39,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 39,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 52,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 37,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 37,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 37,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 37,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 36,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 36,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 69,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 69,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "C:\\Users\\Pat\\Documents\\GitHub Android App\\pokeirc-Android-app\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 638
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Pat\\APP\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {

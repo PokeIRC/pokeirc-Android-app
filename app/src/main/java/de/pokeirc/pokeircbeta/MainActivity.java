@@ -2,6 +2,8 @@ package de.pokeirc.pokeircbeta;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -9,6 +11,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+
 
 
 @SuppressLint("CutPasteId") public class MainActivity extends Activity {
@@ -24,9 +27,9 @@ import android.webkit.WebViewClient;
                webView.getSettings().setJavaScriptEnabled(true);
                webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
                webView.setWebViewClient(new WebViewClient());
-
+               
         engine.loadUrl("https://pokeirc.de/board/");
-
+        
     }
     public void homepage(View v) {
     	WebView webView = (WebView) findViewById(R.id.web_engine);
@@ -44,43 +47,40 @@ import android.webkit.WebViewClient;
     	WebView webView = (WebView) findViewById(R.id.web_engine);
         webView.reload();
     }
-
-
-
-
+    
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-
-
+    
+   
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        if (id == R.id.action_settings) {
+        if (id == R.id.info) {
             //return true;
             WebView webView = (WebView) findViewById(R.id.web_engine);
-            webView.reload();
+            webView.loadUrl("https://pokeirc.de/android/info.html");
         }
-        else if (id == R.id.home) {
-        //return true;
+        else if (id == R.id.info) {
+        //return true;	
         WebView webView = (WebView) findViewById(R.id.web_engine);
         webView.loadUrl("https://pokeirc.de/board/");
         return true;
     }
         else if (id == R.id.next) {
-        //return true;
+        //return true;	
         WebView webView = (WebView) findViewById(R.id.web_engine);
         webView.goForward();
         return true;
     }
         else if (id == R.id.back) {
-        //return true;
+        //return true;	
         WebView webView = (WebView) findViewById(R.id.web_engine);
         webView.goBack();
         return true;

@@ -5,17 +5,11 @@
     <string name="action_settings">Refresh</string>
     <string name="app_name">PokeIRC Beta</string>
     <string name="back">Zurück</string>
-    <string name="donation">Spenden</string>
     <string name="hello_world">Hello world!</string>
-    <string name="high">Bonze</string>
     <string name="home">Home</string>
-    <string name="low">Ein Lächeln</string>
-    <string name="med">Dankeschön</string>
     <string name="menu">Menü</string>
     <string name="next">Vor</string>
-    <string name="title_activity_some">SomeActivity</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
-    <string name="weloveyou">Bankräuber</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
@@ -25,5 +19,9 @@
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme.Shelves" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/ic_launcher</item>
+    <item name="android:windowNoTitle">true</item>
     </style>
 </resources>

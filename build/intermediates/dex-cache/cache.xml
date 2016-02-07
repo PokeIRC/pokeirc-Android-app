@@ -1,26 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\Pat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0_f7c13c08d1a0c8b2087951565979484234d7a8e0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0_c43f5bae83cbb8b99215dabefb2a71c01eabf2d2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-20.0.0_862e2fb4714a95136b6e73c7c5a441deca840894.jar" />
-    </item>
-
-</items>

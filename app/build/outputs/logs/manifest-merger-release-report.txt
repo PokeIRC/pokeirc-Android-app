@@ -10,7 +10,7 @@ ADDED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src
 		INJECTED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src\main\AndroidManifest.xml:4:5-28
+		ADDED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src\main\AndroidManifest.xml:4:5-34
 		INJECTED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Pat\Documents\GitHub Android App\pokeirc-Android-app\app\src\main\AndroidManifest.xml
 	xmlns:android
